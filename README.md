@@ -1,5 +1,5 @@
 # PowerBi_Coffee_Sales_Dashboard
-preview
+## 📸 Dashboard Preview
 ![Coffee Sales Dashboard](powerBi.png)
 
 📌 About the Project
