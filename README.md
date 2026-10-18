@@ -1,4 +1,7 @@
 # PowerBi_Coffee_Sales_Dashboard
+preview
+![Coffee Sales Dashboard](powerBi.png)
+
 📌 About the Project
 
 This project is an analytical dashboard for coffee sales, built with Power BI, designed to explore sales performance, trends, and customer purchasing patterns. The main goal was to practice data visualization skills, writing Measures with DAX, and building an interactive, user-friendly dashboard.
@@ -32,5 +35,3 @@ This project was built to practice and strengthen the following skills:
 
     Building an interactive dashboard for business analysis
 
-🖼️ Screenshots
-(powerBi.png)
