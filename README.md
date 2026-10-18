@@ -33,3 +33,4 @@ This project was built to practice and strengthen the following skills:
     Building an interactive dashboard for business analysis
 
 🖼️ Screenshots
+(powerBi.png)
